@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Compressor"
+  },
+  {
+    "name": "ESP"
+  },
+  {
+    "readAfterWrite": true,
+    "rate": 2000,
+    "name": "Facility"
+  },
+  {
+    "name": "Flare"
+  },
+  {
+    "readAfterWrite": true,
+    "rate": 5000,
+    "name": "Meter"
+  },
+  {
+    "readAfterWrite": true,
+    "rate": 2000,
+    "name": "Plunger"
+  },
+  {
+    "readAfterWrite": true,
+    "rate": 2000,
+    "name": "POC"
+  },
+  {
+    "readAfterWrite": true,
+    "rate": 2000,
+    "name": "Pump"
+  },
+  {
+    "readAfterWrite": true,
+    "rate": 2000,
+    "name": "Remote Device"
+  },
+  {
+    "readAfterWrite": true,
+    "rate": 2000,
+    "name": "Tank"
+  },
+  {
+    "name": "Valve"
+  },
+  {
+    "readAfterWrite": true,
+    "rate": 2000,
+    "name": "Vessel"
+  },
+  {
+    "readAfterWrite": true,
+    "rate": 2000,
+    "name": "Well"
+  }
+]
